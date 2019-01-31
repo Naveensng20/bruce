@@ -1,3 +1,3 @@
-N=int(input())
-sum=((N*(N+1))/2)
+Nbr=int(input())
+sum=((Nbr*(Nbr+1))/2)
 print(sum)
