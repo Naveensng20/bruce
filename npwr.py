@@ -1,4 +1,4 @@
-N=int(input())
-P=int(input())
-exp=(N**P)
+Num=int(input())
+Pwr=int(input())
+exp=(Num**Pwr)
 print(exp)
