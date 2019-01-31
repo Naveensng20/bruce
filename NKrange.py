@@ -1,6 +1,6 @@
-n=int(raw_input())
-k=int(raw_input())
-a=int(raw_input())
-for a in range(0,k):
-    re=((k*(k+1))/2)
-    print(re)
+N=int(input())
+K=int(input())
+a=int(input())
+for a in range(0,K):
+    sum=((K*(K+1))/2)
+    print(sum)
