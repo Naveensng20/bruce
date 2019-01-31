@@ -1,9 +1,9 @@
 n=int(input())
-temp=n
 rev=0
+temp=n
 while(n>0):
 	dig=n%10
-	rev=rev*10+dig
+	rev=10*rev+dig
 	n=n//10
 if(temp==rev):
 	print("yes")
