@@ -1,4 +1,4 @@
-num=int(input())
+num3=int(input())
 for i in range(1,6):
-	mulp=num*i
+	mulp=num3*i
 	print mulp,
