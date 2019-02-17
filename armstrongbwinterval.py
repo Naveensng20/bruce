@@ -1,4 +1,5 @@
-a=input()
+# your code goes here
+a=raw_input()
 nk=a.split()
 num1=int(nk[0])
 num2=int(nk[1]) 
