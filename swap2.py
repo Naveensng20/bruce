@@ -1,3 +1,3 @@
 nk=(input())
-ss=val.split()
+ss=nk.split()
 print(*ss[::-1])
