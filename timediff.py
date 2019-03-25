@@ -1,0 +1,12 @@
+nk=input()
+np=input()
+ss=nk.split()
+a=int(ss[0])
+b=int(ss[1])
+sk=np.split()
+c=int(sk[0])
+d=int(sk[1])
+if(a>c):
+	print(a-c,b-d)
+else:
+	print(c-a,d-b)
