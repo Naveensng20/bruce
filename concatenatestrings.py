@@ -1,0 +1,5 @@
+nk=input()
+ss=nk.split()
+a=(ss[0])
+b=(ss[1])
+print(a+b)
