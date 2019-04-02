@@ -1,4 +1,5 @@
-nk=raw_input()
-for i in nk:
-    print (i),
+n=input()
+for i in n:
+    print(i,end=" ")
+	
 	
