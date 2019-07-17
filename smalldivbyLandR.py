@@ -1,0 +1,10 @@
+a=input()
+s=a.split()
+b=int(s[0])
+c=int(s[1])
+if(b%c==0):
+	print(b)
+elif(c%b==0):
+	print(c)
+else:
+	print(b*c)
